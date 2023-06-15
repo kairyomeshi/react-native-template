@@ -47,7 +47,7 @@ npx react-native init MyApp --template @kairyomeshi/react-native-template
 #### e.g. `react-native@0.71.x`
 
 ```sh
-npx react-native init MyApp --template @kairyomeshi/react-native-template@2.9.0
+npx react-native init MyApp --template @kairyomeshi/react-native-template@2.12.0
 ```
 
 See the below table to find out which version of the template to use.
