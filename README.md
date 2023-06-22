@@ -1,4 +1,4 @@
-# :space_invader: React Native Template
+# :space_invader: React Native Template with Path Aliases Support
 
 [![release-please](https://github.com/kairyomeshi/react-native-template/actions/workflows/release-please.yml/badge.svg)](https://github.com/kairyomeshi/react-native-template/actions/workflows/release-please.yml)
 
@@ -14,13 +14,27 @@
   </a>
 </p>
 
-> Clean and minimalist React Native template for a quick start.
+> A clean and minimalist React Native template with support for path aliases, for a streamlined development experience.
 
 ## :star: Features
 
-- Elegant usage directly within the [React Native CLI](https://github.com/react-native-community/cli)
-- Consistent with the default React Native template
-- Minimal additional dependencies
+- Supports path aliases for simpler and more readable code.
+- Elegant usage directly within the [React Native CLI](https://github.com/react-native-community/cli).
+- Consistent with the default React Native template.
+- Minimal additional dependencies.
+
+## 📁 Path Aliases
+
+This template is configured to support path aliases. Path aliases allow you to avoid complex relative paths in your import statements, making your code easier to read and maintain. Here is an example of how you can use path aliases in your project:
+
+
+```javascript
+// Without path aliases
+import MyComponent from '../../components/MyComponent';
+
+// With path aliases
+import MyComponent from '@components/MyComponent';
+```
 
 ## :arrow_forward: Usage
 
@@ -30,10 +44,10 @@ npx react-native init MyApp --template @kairyomeshi/react-native-template
 
 ### Usage with older versions of React Native
 
-#### e.g. `react-native@0.70.x`
+#### e.g. `react-native@0.71.x`
 
 ```sh
-npx react-native init MyApp --template @kairyomeshi/react-native-template@1.7.1
+npx react-native init MyApp --template @kairyomeshi/react-native-template@2.12.0
 ```
 
 See the below table to find out which version of the template to use.
@@ -42,6 +56,7 @@ See the below table to find out which version of the template to use.
 
 | React Native | Template |
 | ------------ | -------- |
+| 0.72         | 3.\**.\* |
 | 0.71         | 2.\**.\* |
 | 0.70         | 1.\**.\* |
 
