@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.0](https://github.com/kairyomeshi/react-native-template/compare/v2.12.0...v3.0.0) (2023-06-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* update to react-native v0.72.0
+
+### Features
+
+* update to react-native v0.72.0 ([fb75756](https://github.com/kairyomeshi/react-native-template/commit/fb75756c3800c4d765d537eebb0f62dd0aea2622))
+* update to react-native@0.72.0 ([53f6dce](https://github.com/kairyomeshi/react-native-template/commit/53f6dce0e50fb24931a008fd161f27d53ed1d498))
+
+
+### Bug Fixes
+
+* package.json ([efed2bb](https://github.com/kairyomeshi/react-native-template/commit/efed2bb4ee2801c269f629b740f71cd13b32e026))
+
 ## [2.12.0](https://github.com/kairyomeshi/react-native-template/compare/v2.11.0...v2.12.0) (2023-06-15)
 
 
