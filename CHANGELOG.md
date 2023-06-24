@@ -1,5 +1,30 @@
 # Changelog
 
+## [4.0.0](https://github.com/kairyomeshi/react-native-template/compare/v3.0.0...v4.0.0) (2023-06-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* update to react-native v0.72.0
+
+### Features
+
+* update to react-native v0.7.11 ([e8bc346](https://github.com/kairyomeshi/react-native-template/commit/e8bc3462fa99befd27023543ed2043880e322739))
+* update to react-native v0.71.10 ([233fa36](https://github.com/kairyomeshi/react-native-template/commit/233fa362aad4994d212e23701822d09bfd45c346))
+* update to react-native v0.71.9 ([3221ef4](https://github.com/kairyomeshi/react-native-template/commit/3221ef486dfb2f02b8b0ecb467d26c34344113e6))
+* update to react-native v0.72.0 ([fb75756](https://github.com/kairyomeshi/react-native-template/commit/fb75756c3800c4d765d537eebb0f62dd0aea2622))
+* update to react-native v0.72.0-rc.6 ([eeb99d1](https://github.com/kairyomeshi/react-native-template/commit/eeb99d1d57d85d7691555ffc36a54740475b52c4))
+* update to react-native@0.72.0 ([53f6dce](https://github.com/kairyomeshi/react-native-template/commit/53f6dce0e50fb24931a008fd161f27d53ed1d498))
+
+
+### Bug Fixes
+
+* move jest.config.js to correct directory ([cf22c63](https://github.com/kairyomeshi/react-native-template/commit/cf22c63e5018cc4eabab60d0f84473301828aa09))
+* package.json ([efed2bb](https://github.com/kairyomeshi/react-native-template/commit/efed2bb4ee2801c269f629b740f71cd13b32e026))
+* package.json ([0d0dfca](https://github.com/kairyomeshi/react-native-template/commit/0d0dfca1c3795f5e7ede9ab7f1024931c6d07c39))
+* remove package-lock.json ([fe3aa14](https://github.com/kairyomeshi/react-native-template/commit/fe3aa1458cbf9e8dc0a5baad7716059760a0aa6a))
+* update to typescript@4.9.4 ([997dcd0](https://github.com/kairyomeshi/react-native-template/commit/997dcd05500d1a8ac5a60c5c249ef17b99a3ffb8))
+
 ## [3.0.0](https://github.com/kairyomeshi/react-native-template/compare/v2.12.0...v3.0.0) (2023-06-22)
 
 
