@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.1.1](https://github.com/kairyomeshi/react-native-template/compare/v4.1.0...v4.1.1) (2023-07-01)
+
+
+### Bug Fixes
+
+* fixed README.md ([0310de0](https://github.com/kairyomeshi/react-native-template/commit/0310de0d9fedbc1932ec5c49614c681cb150e18a))
+* fixed template/README.md ([86ff644](https://github.com/kairyomeshi/react-native-template/commit/86ff6440679a1dc0fa6a7f025c88f4010c72991b))
+
 ## [4.1.0](https://github.com/kairyomeshi/react-native-template/compare/v4.0.0...v4.1.0) (2023-06-29)
 
 
